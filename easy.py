@@ -29,7 +29,6 @@ else:
 # now let us see the for loops
 
 print("Hurray i am going to print 5 numbers")
-
 for i in range(0,5):
     print("X",sep=" ",end="\n")
 
